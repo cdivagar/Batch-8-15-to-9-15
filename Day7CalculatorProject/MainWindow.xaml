@@ -1,0 +1,42 @@
+﻿<Window x:Class="Day7CalculatorProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day7CalculatorProject"
+        mc:Ignorable="d"
+        
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBox x:Name="resultbox" Text="0" TextAlignment="Right" FontSize="30" Height="70" Width="300" HorizontalAlignment="Left"></TextBox>
+
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="btn7" Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="7" Click="Number_Click"></Button>
+            <Button x:Name="btn8" Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="8" Click="Number_Click"></Button>
+            <Button x:Name="btn9" Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="9" Click="Number_Click"></Button>
+            <Button x:Name="btnadd" Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="+" Click="Operator_Click" ></Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="btn4" Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="4" Click="Number_Click"></Button>
+            <Button x:Name="btn5"  Margin="3" BorderThickness="0" Background="#33ffeb"  Height="40" Width="70" Content="5" Click="Number_Click"></Button>
+            <Button x:Name="btn6" Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="6" Click="Number_Click"></Button>
+            <Button x:Name="btnsub"  Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="-" Click="Operator_Click"></Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="btn1"  Margin="3"  BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="1" Click="Number_Click"></Button>
+            <Button x:Name="btn2"  Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="2" Click="Number_Click"></Button>
+            <Button x:Name="btn3"  Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="3" Click="Number_Click"></Button>
+            <Button x:Name="btnmul"  Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="*" Click="Operator_Click"></Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+
+
+
+            <Button x:Name="btn00"  Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="0" Click="Number_Click"></Button>
+            <Button x:Name="btnc"  Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="c" Click="btnc_Click"></Button>
+            <Button x:Name="btneq"  Margin="3" BorderThickness="0"  Height="40" Width="70" Content="=" Click="btneq_Click"  Background="Orange"></Button>
+            <Button x:Name="btndiv"  Margin="3" BorderThickness="0" Background="#33ffeb" Height="40" Width="70" Content="/" Click="Operator_Click" ></Button>
+
+        </StackPanel>
+    </StackPanel>
+</Window>

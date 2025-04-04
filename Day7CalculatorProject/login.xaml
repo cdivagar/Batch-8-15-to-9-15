@@ -1,0 +1,17 @@
+﻿<Window x:Class="Day7CalculatorProject.login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day7CalculatorProject"
+        mc:Ignorable="d"
+        Title="login" Height="450" Width="800">
+    <StackPanel >
+        <TextBlock Text="login" HorizontalAlignment="Center" FontSize="30"></TextBlock>
+        <TextBlock Text="User Name"></TextBlock>
+        <TextBox x:Name="txtusername" ></TextBox>
+        <TextBlock  Text="password"></TextBlock>
+        <PasswordBox x:Name="txtpassword" PasswordChar="*"></PasswordBox>
+        <Button x:Name="btn" Content="login" Click="btn_Click"></Button>
+    </StackPanel>
+</Window>

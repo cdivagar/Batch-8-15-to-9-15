@@ -1,0 +1,17 @@
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\bin\Debug\Day7CalculatorProject.exe.config
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\bin\Debug\Day7CalculatorProject.exe
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\bin\Debug\Day7CalculatorProject.pdb
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\Day7CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\MainWindow.g.cs
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\App.g.cs
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\Day7CalculatorProject_MarkupCompile.cache
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\Day7CalculatorProject_MarkupCompile.lref
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\MainWindow.baml
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\Day7CalculatorProject.g.resources
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\Day7CalculatorProject.Properties.Resources.resources
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\Day7CalculatorProject.csproj.GenerateResource.cache
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\Day7CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\Day7CalculatorProject.exe
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\Day7CalculatorProject.pdb
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\login.g.cs
+C:\Users\divag\source\repos\Day7CalculatorProject\Day7CalculatorProject\obj\Debug\login.baml
