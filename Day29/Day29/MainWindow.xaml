@@ -1,0 +1,27 @@
+﻿<Window x:Class="Day29.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day29"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <StackPanel>
+            <TextBox x:Name="txtsno"></TextBox>
+            <TextBox x:Name="txtsname"></TextBox>
+            <TextBox x:Name="txtsscourse"></TextBox>
+            <Button x:Name="btnregister" Content="register" Click="btnregister_Click"></Button>
+            <ListBox x:Name="lstbox"></ListBox>
+            <ListView x:Name="lstview">
+                <ListView.View>
+                    <GridView >
+                        <GridViewColumn Header="sno" DisplayMemberBinding="{Binding sno}"></GridViewColumn>
+                        <GridViewColumn Header="sname" DisplayMemberBinding="{Binding sname}"></GridViewColumn>
+                        <GridViewColumn Header="scourse" DisplayMemberBinding="{Binding scourse}"></GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </StackPanel>
+</Window>
