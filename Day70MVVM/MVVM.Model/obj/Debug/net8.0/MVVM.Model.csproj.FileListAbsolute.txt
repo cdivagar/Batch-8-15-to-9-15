@@ -1,0 +1,11 @@
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\bin\Debug\net8.0\MVVM.Model.deps.json
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\bin\Debug\net8.0\MVVM.Model.dll
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\bin\Debug\net8.0\MVVM.Model.pdb
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\obj\Debug\net8.0\MVVM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\obj\Debug\net8.0\MVVM.Model.AssemblyInfoInputs.cache
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\obj\Debug\net8.0\MVVM.Model.AssemblyInfo.cs
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\obj\Debug\net8.0\MVVM.Model.csproj.CoreCompileInputs.cache
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\obj\Debug\net8.0\MVVM.Model.dll
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\obj\Debug\net8.0\refint\MVVM.Model.dll
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\obj\Debug\net8.0\MVVM.Model.pdb
+C:\Users\divag\source\repos\Day70MVVM\MVVM.Model\obj\Debug\net8.0\ref\MVVM.Model.dll

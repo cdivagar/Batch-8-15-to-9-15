@@ -1,0 +1,15 @@
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\bin\Debug\net8.0\MVVM.ViewModel.deps.json
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\bin\Debug\net8.0\MVVM.ViewModel.dll
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\bin\Debug\net8.0\MVVM.ViewModel.pdb
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\MVVM.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\MVVM.ViewModel.AssemblyInfoInputs.cache
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\MVVM.ViewModel.AssemblyInfo.cs
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\MVVM.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\MVVM.ViewModel.dll
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\refint\MVVM.ViewModel.dll
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\MVVM.ViewModel.pdb
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\ref\MVVM.ViewModel.dll
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\bin\Debug\net8.0\MVVM.Model.dll
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\bin\Debug\net8.0\MVVM.Model.pdb
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\MVVM.ViewModel.csproj.AssemblyReference.cache
+C:\Users\divag\source\repos\Day70MVVM\MVVM.ViewModel\obj\Debug\net8.0\MVVM.Vie.B5F0DC6F.Up2Date

@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{967B4DE3-5A48-48C7-8FF5-CC0F9308BB15}|MVVM.ViewModel\\MVVM.ViewModel.csproj|c:\\users\\divag\\source\\repos\\day70mvvm\\mvvm.viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B4DE3-5A48-48C7-8FF5-CC0F9308BB15}|MVVM.ViewModel\\MVVM.ViewModel.csproj|solutionrelative:mvvm.viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A3FA8-4CEC-4658-9535-D3806541657A}|Day70MVVM\\Day70MVVM.csproj|c:\\users\\divag\\source\\repos\\day70mvvm\\day70mvvm\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A3FA8-4CEC-4658-9535-D3806541657A}|Day70MVVM\\Day70MVVM.csproj|solutionrelative:day70mvvm\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DE60B5-05C3-4CC1-B915-2988652A3C1A}|MVVM.Model\\MVVM.Model.csproj|c:\\users\\divag\\source\\repos\\day70mvvm\\mvvm.model\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DE60B5-05C3-4CC1-B915-2988652A3C1A}|MVVM.Model\\MVVM.Model.csproj|solutionrelative:mvvm.model\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B4DE3-5A48-48C7-8FF5-CC0F9308BB15}|MVVM.ViewModel\\MVVM.ViewModel.csproj|c:\\users\\divag\\source\\repos\\day70mvvm\\mvvm.viewmodel\\mvvm.viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{967B4DE3-5A48-48C7-8FF5-CC0F9308BB15}|MVVM.ViewModel\\MVVM.ViewModel.csproj|solutionrelative:mvvm.viewmodel\\mvvm.viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A3FA8-4CEC-4658-9535-D3806541657A}|Day70MVVM\\Day70MVVM.csproj|c:\\users\\divag\\source\\repos\\day70mvvm\\day70mvvm\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B5A3FA8-4CEC-4658-9535-D3806541657A}|Day70MVVM\\Day70MVVM.csproj|solutionrelative:day70mvvm\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967B4DE3-5A48-48C7-8FF5-CC0F9308BB15}|MVVM.ViewModel\\MVVM.ViewModel.csproj|c:\\users\\divag\\source\\repos\\day70mvvm\\mvvm.viewmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B4DE3-5A48-48C7-8FF5-CC0F9308BB15}|MVVM.ViewModel\\MVVM.ViewModel.csproj|solutionrelative:mvvm.viewmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A3FA8-4CEC-4658-9535-D3806541657A}|Day70MVVM\\Day70MVVM.csproj|c:\\users\\divag\\source\\repos\\day70mvvm\\day70mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B5A3FA8-4CEC-4658-9535-D3806541657A}|Day70MVVM\\Day70MVVM.csproj|solutionrelative:day70mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A3FA8-4CEC-4658-9535-D3806541657A}|Day70MVVM\\Day70MVVM.csproj|c:\\users\\divag\\source\\repos\\day70mvvm\\day70mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A3FA8-4CEC-4658-9535-D3806541657A}|Day70MVVM\\Day70MVVM.csproj|solutionrelative:day70mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\MVVM.ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM.ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\MVVM.ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "MVVM.ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:56:26.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\Day70MVVM\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "Day70MVVM\\Register.xaml.cs",
+              "ToolTip": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\Day70MVVM\\Register.xaml.cs",
+              "RelativeToolTip": "Day70MVVM\\Register.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:16:01.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\Day70MVVM\\Register.xaml",
+              "RelativeDocumentMoniker": "Day70MVVM\\Register.xaml",
+              "ToolTip": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\Day70MVVM\\Register.xaml",
+              "RelativeToolTip": "Day70MVVM\\Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-24T10:15:27.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\MVVM.Model\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "MVVM.Model\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\MVVM.Model\\RegisterModel.cs",
+              "RelativeToolTip": "MVVM.Model\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:13:21.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\MVVM.ViewModel\\Class1.cs",
+              "RelativeDocumentMoniker": "MVVM.ViewModel\\Class1.cs",
+              "ToolTip": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\MVVM.ViewModel\\Class1.cs",
+              "RelativeToolTip": "MVVM.ViewModel\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:10:59.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\Day70MVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Day70MVVM\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\Day70MVVM\\MainWindow.xaml",
+              "RelativeToolTip": "Day70MVVM\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-24T10:07:47.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MVVM.ViewModel.csproj",
+              "DocumentMoniker": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\MVVM.ViewModel\\MVVM.ViewModel.csproj",
+              "RelativeDocumentMoniker": "MVVM.ViewModel\\MVVM.ViewModel.csproj",
+              "ToolTip": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\MVVM.ViewModel\\MVVM.ViewModel.csproj",
+              "RelativeToolTip": "MVVM.ViewModel\\MVVM.ViewModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T11:36:25.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\Day70MVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Day70MVVM\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\divag\\source\\repos\\Day70MVVM\\Day70MVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Day70MVVM\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:07:38.61Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
